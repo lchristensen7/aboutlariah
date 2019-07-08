@@ -1,0 +1,16 @@
+.center {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+.center-list {
+	width: 50%;
+	list-style-position: inside;
+	text-align: left;
+	display: inline-block;
+}
+
+.html-list {
+	list-style-type: square;
+}
